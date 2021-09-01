@@ -1,0 +1,12 @@
+.flex-parent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.flex-child {
+  background-color: red;
+  width: 99px;
+  height: 150px;
+}
